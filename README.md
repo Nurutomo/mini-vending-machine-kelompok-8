@@ -52,7 +52,7 @@ Perancangan sistem Mini Vending Machine ini dilakukan melalui pendekatan integra
 
 ### Flowchart Mini Vending Machine
 Flowchart yang dirancang bertujuan untuk menampilkan proses tahapan sistem secara beruntun yang berlangsung di dalam sistem secara menyeluruh. Adapun flowchart sistem pada Mini Vending Machine dapat dilihat pada gambar berikut:
-![Diagram Flowchart](img/flowchart.svg)
+![Diagram Flowchart](./img/flowchart.svg)
 <center>
 <small>
 
@@ -170,7 +170,7 @@ Perancangan sistem ini menggabungkan konstruksi mekanik berbahan yellowboard den
       1.	Ketika saldo cukup maka servo stok berputar, produk keluar dan saldo berkurang.
       2.	Jika saldo kurang servo diam dan LCD akan menampilkan "Saldo Tidak Cukup".
 
-![Wiring Diagram](img/wiring.svg)
+![Wiring Diagram](./img/wiring.svg)
 <center>
 <small>
 
@@ -194,12 +194,10 @@ Adapun program yang kami gunakan dapat dilihat pada [GitHub](https://github.com/
 <br>
 Dokumen penelitian ini dapat dilihat pada [Google Drive](https://drive.google.com/drive/folders/1iMuwxh7y3Og4IQ_VsS2yOAs0AXQ-EPVr?usp=sharing)
 
-<!-- <center>
-![front](img/front.jpg) ![back](img/back.jpg) ![top](img/top.jpg) -->
 <p style="display: flex; justify-content: center;">
-<img src="img/front.jpg" width="30%"/>
-<img src="img/back.jpg" width="30%"/>
-<img src="img/top.jpg" width="30%"/>
+<img src="./img/front.jpg" width="30%"/>
+<img src="./img/back.jpg" width="30%"/>
+<img src="./img/top.jpg" width="30%"/>
 </p>
 <center>
 <small>
