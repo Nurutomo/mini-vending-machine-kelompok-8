@@ -1,6 +1,10 @@
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://nurutomo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/mini-vending-machine-kelompok-8" # the subpath of your site, e.g. /blog
 title: "Mini Vending Machine | Kelompok 8" # the name of your site, e.g. ACME Corp.
 
 markdown: GFM
 lang: id-ID
+
+remote_theme: pages-themes/primer@v0.6.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
