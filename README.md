@@ -178,7 +178,9 @@ Perancangan sistem ini menggabungkan konstruksi mekanik berbahan yellowboard den
 
 </small>
 </center>
+
 ## Hasil dan Pembahasan
+
 Perancangan dan pembangunan sistem Prototype Mini Vending Machine ini bertujuan untuk menyediakan simulasi alat penjualan otomatis yang bekerja secara mandiri (*standalone*) tanpa bergantung pada koneksi internet. Sistem ini mengintegrasikan input sensor (seperti tombol, sensor koin, atau sensor jarak), mikrokontroler sebagai pusat pemrosesan logika, serta motor servo sebagai aktuator mekanik untuk mengeluarkan barang. Sistem dirancang untuk merespons permintaan pengguna secara langsung (*real-time processing*) di perangkat itu sendiri, di mana motor akan bergerak otomatis untuk menjatuhkan produk segera setelah input yang valid dideteksi, memastikan mekanisme kerja yang presisi dan efisien.
 
 | No |   Komponen yang Diuji    | Parameter Uji/Kondisi                                 | Hasil Pengujian                                                                                                                                                                          | Status   |
