@@ -3,3 +3,4 @@ baseurl: "" # the subpath of your site, e.g. /blog
 title: "Mini Vending Machine | Kelompok 8" # the name of your site, e.g. ACME Corp.
 
 markdown: GFM
+lang: id-ID
